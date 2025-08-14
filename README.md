@@ -1,1 +1,2 @@
 <img width="1355" height="663" alt="image" src="https://github.com/user-attachments/assets/ef75c449-d68d-48b0-97ac-9c375eb6e2af" />
+Developed a Power BI dashboard using a historical Kaggle dataset to analyze business KPIs and uncover trends without forecasting. Performed data cleaning, preprocessing, and EDA, built calculated measures using DAX, and designed interactive visualizations for strategic decision-making. Delivered insightful, executive-ready analytics to highlight growth, stagnation, and risk areas based on past performance.
